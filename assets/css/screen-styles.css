@@ -150,7 +150,7 @@ img {
     float:right;
     margin-left:2.127%; /* 20px/940px */
 }
-.required,
+
 .selected {
     color:#f00;
 }
